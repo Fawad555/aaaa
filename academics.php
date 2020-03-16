@@ -178,8 +178,7 @@
 		 <br /><br /><br />
 		 <div class="col-md-3">
 		 <div class="vertical-menu">
-		 <a href="#" class="firstOption">Class Timetable</a>
-		 <a href="#" class="secondOption">Assign Class Teacher</a>
+		
 		 <a href="#" class="thirdOption">Assign Subject</a>
 		 <a href="#" class="fourthOption">Promote Students</a>
 		 <a href="#" class="fifthOption">Subjects</a>
