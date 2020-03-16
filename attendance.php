@@ -178,8 +178,7 @@
 		 <br /><br /><br />
 		 <div class="col-md-2">
 		 <div class="vertical-menu">
-		 <a href="#" class="firstOption">Student Attendance</a>
-		 <a href="#" class="secondOption">Attendance by Date</a>
+		 
 		 <a href="#" class="thirdOption">Attendance Report</a>
 		 
 		 </div>
